@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [19/Feb/2020:20:59:31 +0800] "GET /user/findAll HTTP/1.1" 200 10685 http-bio-80-exec-3 551
+0:0:0:0:0:0:0:1 - - [19/Feb/2020:20:59:31 +0800] "GET /js/bootstrap.min.js HTTP/1.1" 200 37045 http-bio-80-exec-6 365
+0:0:0:0:0:0:0:1 - - [19/Feb/2020:20:59:31 +0800] "GET /css/bootstrap.min.css HTTP/1.1" 200 121200 http-bio-80-exec-5 410
+0:0:0:0:0:0:0:1 - - [19/Feb/2020:20:59:31 +0800] "GET /js/jquery-2.1.0.min.js HTTP/1.1" 200 83617 http-bio-80-exec-4 456
+0:0:0:0:0:0:0:1 - - [19/Feb/2020:20:59:31 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-80-exec-9 1
